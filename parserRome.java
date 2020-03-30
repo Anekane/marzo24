@@ -1,4 +1,4 @@
-// Realizado por Carmen, Samuel y Javier Bernal //
+// Realizado por Carmen Rufo, Samuel Rivera y Javier Bernal //
 
 import java.net.URL;
 import java.io.InputStreamReader;
