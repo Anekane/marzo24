@@ -1,14 +1,3 @@
-tp marzo24
-
-Trabajar individualmente, nadie va a pasar vergüenza, al contrario,
-la vergüenza se genera cuando el que lee encuentra buena parte de los
-trabajos iguales; tener presente que con estos ejercicios nos preparamos
-para realizar exámenes (esos que se hacen en el aula, en un tiempo 
-asignado e individualmente).
-
-
-Fecha de entrega: no tiene
-
 Se tiene
 --------
 
